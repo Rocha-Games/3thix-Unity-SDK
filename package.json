@@ -1,0 +1,36 @@
+{
+    "name": "com.3thix",
+    "version": "1.0.0",
+    "displayName": "3thix SDK",
+    "description": "A Unity SDK for 3thix payment integration",
+    "unity": "2022.3",
+    "author": {
+      "name": "3thix, Inc.",
+      "url": "https://3thix.com"
+    },
+    "documentationUrl": "https://github.com/Rocha-Games/3thix-SDK/blob/master/README.md",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Rocha-Games/3thix-SDK.git"
+    },
+    "dependencies": {
+      "com.unity.nuget.newtonsoft-json": "3.2.1",
+      "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+      "dev.voltstro.nativearrayspanextensions": "1.0.1",
+      "dev.voltstro.unitywebbrowser": "2.2.6",
+      "dev.voltstro.unitywebbrowser.engine.cef": "2.2.6",
+      "dev.voltstro.unitywebbrowser.engine.cef.win.x64": "2.2.6",
+      "org.nuget.voltrpc": "3.2.1"
+    },
+    "scopedRegistries": [
+      {
+        "name": "Voltstro UPM",
+        "url": "https://upm-pkgs.voltstro.dev",
+        "scopes": [
+          "dev.voltstro",
+          "org.nuget"
+        ],
+        "overrideBuiltIns": false
+      }
+    ]
+  }
