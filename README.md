@@ -22,6 +22,13 @@
   - `UnityEngine.Networking` for HTTP requests.  
 - **Non-WebGL Platforms**: Requires [Unity Web Browser](https://projects.voltstro.dev/UnityWebBrowser/latest/)
 
+## Installation
+- Add the following in Package Manager:
+
+```
+https://github.com/Rocha-Games/3thix-Unity-SDK
+```
+
 ## Setup
 
 1. **Add to Scene**:
