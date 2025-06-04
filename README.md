@@ -16,7 +16,7 @@
 
 ## Requirements
 
-- **Unity**: Compatible with Unity 2020.3 or later.
+- **Unity**: Compatible with Unity 2021.3 or later.
 - **Dependencies**:
   - `Newtonsoft.Json` for JSON serialization/deserialization.
   - `UnityEngine.Networking` for HTTP requests.  
