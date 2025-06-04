@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.2.1",
-    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.5.1",
+    "dev.voltstro.unitywebbrowser": "https://github.com/Voltstro-Studios/UnityWebBrowser.git#v2.2.6"
   },
   "samples": [
     {
