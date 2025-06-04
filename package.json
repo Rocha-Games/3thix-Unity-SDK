@@ -11,11 +11,20 @@
   "documentationUrl": "https://github.com/Rocha-Games/3thix-Unity-SDK",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rocha-Games/3thix-Unity-SDK"
+    "url": "https://github.com/Rocha-Games/3thix-Unity-SDK.git"
   },
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.2.1",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
-    "dev.voltstro.unitywebbrowser": "https://github.com/Voltstro-Studios/UnityWebBrowser.git#v2.2.6"
-  }
+    "dev.voltstro.unitywebbrowser": "https://github.com/Voltstro-Studios/UnityWebBrowser.git#v2.2.6",
+    "dev.voltstro.nativearrayspanextensions": "1.0.1",
+    "org.nuget.voltrpc": "3.2.1"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "A demo showing all 3thix features.",
+      "path": "Samples~/Demo"
+    }
+  ]
 }
