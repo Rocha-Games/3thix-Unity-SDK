@@ -14,9 +14,7 @@
     "url": "https://github.com/Rocha-Games/3thix-Unity-SDK.git"
   },
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "3.2.1",
-    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.5.1",
-    "dev.voltstro.unitywebbrowser": "https://github.com/Voltstro-Studios/UnityWebBrowser.git#v2.2.6"
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
   },
   "samples": [
     {
